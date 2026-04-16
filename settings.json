@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "gm01-dc09.ouiheberg.com",
+    "port": 4278,
     "version": "",
     "try-creative": false
   },
